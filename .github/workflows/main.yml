@@ -1,0 +1,2 @@
+uses: subosito/flutter-action@v2
+flutter build windows
